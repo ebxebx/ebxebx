@@ -47,7 +47,7 @@ Clean Interfaces
 
 ## 📦 Featured Projects
 
-- `get_next_line` – Read a file descriptor line by line  
+- `get_next_line[https://github.com/ebxebx/42sg_get_next_line]` – Read a file descriptor line by line  
 - `pipex` – Recreate shell pipelines  
 - `minishell` – Build a minimal shell  
 - `philosophers` – Solve classic concurrency problem  
